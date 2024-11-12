@@ -1,0 +1,11 @@
+# Diccionario de la vacuna COVID-19 de Janssen
+vacuna_covid19_janssen_diccionario = {
+    "Ácido cítrico": ["C", "H", "O"],
+    "Citrato trisódico": ["Na", "C", "H", "O"],
+    "Etanol": ["C", "H", "O"],
+    "Polisorbato 80": ["C", "H", "O"],
+    "2-hidroxipropil-β-ciclodextrina": ["C", "H", "O"],
+    "Cloruro de sodio": ["Na", "Cl"],
+    "Ácido clorhídrico": ["H", "Cl"],
+    "Hidróxido de sodio": ["Na", "O", "H"]
+}

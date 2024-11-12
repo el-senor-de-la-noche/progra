@@ -1,0 +1,9 @@
+# Diccionario de la vacuna para la gripe aviar
+vacuna_gripe_aviar_diccionario = {
+    "Hidróxido de aluminio": ["Al"],
+    "Timerosal": ["Hg"],
+    "Sacarosa": ["C", "H", "O"],
+    "Neomicina": ["N", "O"],
+    "Gentamicina": ["N", "O"],
+    "Formaldehído": ["C", "H", "O"]
+}

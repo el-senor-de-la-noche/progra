@@ -1,0 +1,15 @@
+código	descripción
+1	Harina
+2	Aceite
+3	Azúcar
+4	Arroz g1
+5	Arroz g2
+6	Carne filetes pollo 500 gr.
+7	Carne molida vacuno 500 gr.
+8	Carne molida pavo 500 gr.
+9	Chuletas de cerdo 1k
+10	Lomo vacuno 1k
+11	Porotos 1k
+12	Garbanzos 1k
+13	Lentejas 1k
+ 

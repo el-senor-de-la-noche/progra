@@ -1,0 +1,12 @@
+# Diccionario de la vacuna para la gripe porcina
+vacuna_gripe_porcina_diccionario = {
+    "Escualeno": ["C", "H"],
+    "DL-α-tocoferol": ["C", "H", "O"],
+    "Polisorbato 80": ["C", "H", "O"],
+    "Fenol": ["C", "H", "O"],
+    "Timerosal": ["Hg"],
+    "Lactosa": ["C", "H", "O"],
+    "Neomicina": ["N", "O"],
+    "Gentamicina": ["N", "O"],
+    "Formaldehído": ["C", "H", "O"]
+}
